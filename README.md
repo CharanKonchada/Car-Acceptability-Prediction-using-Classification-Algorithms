@@ -1,7 +1,3 @@
-Absolutely, Charan! Here's a professional and clean `README.md` you can use for your **Car Acceptancy Prediction** GitHub repository:
-
----
-
 # 🚗 Car Acceptancy Prediction using Machine Learning
 
 This project predicts car acceptability based on various features like buying price, maintenance cost, number of doors, person capacity, luggage boot size, and safety rating using multiple classification algorithms. The final model, trained using **XGBoost**, achieved high accuracy and was deployed via a **Flask web application**.
